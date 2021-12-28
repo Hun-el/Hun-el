@@ -4,9 +4,6 @@
 
 I've been developing games with Unity and C# for 5 years.
 I can also develop online pc & mobile games with playfab and photon network.
-
-Skills: C# / UNITY / PHOTON NETWORK
-
 - 🔭 I’m currently working on <a href="https://store.steampowered.com/app/1558110/Challenge_Party" target="_blank">Challenge Party</a>
 - 📫 How to reach me: davuthun@hotmail.com 
 
