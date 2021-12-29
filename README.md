@@ -10,6 +10,7 @@ I can also develop online pc & mobile games with playfab and photon network.
 ### 🚀 Latest Prototypes
 
 <!-- BLOG-POST-LIST:START -->
+- [Color Helix](https://github.com/IHunelI/-Prototype-ColorHelix)
 - [Match3 V2](https://github.com/IHunelI/-Prototype-Match3V2)
 - [Barista](https://github.com/IHunelI/-Prototype-Barista)
 - [Crowd Runners](https://github.com/IHunelI/-Prototype-CrowdRunners)
